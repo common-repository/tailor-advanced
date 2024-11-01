@@ -1,0 +1,5 @@
+.tailor-ui .tailor-section.has-background-image .tailor-section__background, .tailor-ui .tailor-section.has-background-video .tailor-section__background {
+  display: none;
+}
+
+/*# sourceMappingURL=tinymce.css.map */
